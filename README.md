@@ -10,8 +10,8 @@
 
 [![Website](https://img.shields.io/badge/Website-genzzi.in-4f46e5?style=for-the-badge&logo=globe&logoColor=white)](https://genzzi.in)
 [![NPM](https://img.shields.io/badge/NPM-%40genzzi-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/org/genzzi)
-[![YouTube](https://img.shields.io/badge/YouTube-%40genzzi-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@genzzi)
-[![Twitter](https://img.shields.io/badge/Twitter-%40genzzi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/genzzi)
+[![YouTube](https://img.shields.io/badge/YouTube-%40genzzi-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@genzzi-india)
+[![instagram](https://img.shields.io/badge/instagram-%40genzzi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://instagram.com/genzzi.in)
 [![Made in India](https://img.shields.io/badge/Made%20in-Madurai%2C%20India%20🇮🇳-FF9933?style=for-the-badge)](https://genzzi.in)
 
 *Launched June 19, 2026 — India-hosted · INR pricing · DPDP ready · Free tier*
